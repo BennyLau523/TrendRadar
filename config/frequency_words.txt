@@ -65,7 +65,7 @@ Stanford A型 / Stanford B型 / DeBakey
 大动脉炎 / 主动脉炎
 
 # ── 心肾综合征 ──
-[心肾综合征]
+[心肾代谢综合征]
 心肾综合征 / cardiorenal syndrome / CRS
 心肾交互 / 心肾同治
 急性肾损伤 / AKI / 急性肾功能不全
